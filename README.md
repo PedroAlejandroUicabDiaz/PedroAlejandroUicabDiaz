@@ -5,8 +5,8 @@ I'm a data engineering student and data enthusiast. Here you will find all my pr
 - :school: I'm currently studying at Universidad Politécnica de Yucatán.
 - :diamond_shape_with_a_dot_inside:  I’m looking to collaborate on any data related project.
 - 🌱 I'm currently learning cloud infrastructure and NLP.
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/pedro-uicab-diaz-7350151a6) and [Medium](https://medium.com/@pedroa.uicabdiaz).
-
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/pedro-uicab-diaz-7350151a6).
+- :computer: You might be interested in my [Medium](https://medium.com/@pedroa.uicabdiaz) posts or my [HackerRank](https://www.hackerrank.com/h1909180) profile.
 
 <!---
 PedroAlejandroUicabDiaz/PedroAlejandroUicabDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
